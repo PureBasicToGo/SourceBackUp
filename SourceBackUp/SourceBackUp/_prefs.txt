@@ -1,8 +1,8 @@
 ﻿
 CompilerCount = 0383
-Pfad_1 = E:\_DEV-DSC\_GRUNDPROGRAMM\
-Pfad_2 = E:\_DEV-DSC\_TOOLS\
-Pfad_3 = E:\_Scanner\
-Pfad_4 = E:\_DEV-DSC\
-Pfad_5 = D:\t\BackUp\
-Pfad_6 = G:\_t\BackUp\
+Pfad_1 = 
+Pfad_2 = 
+Pfad_3 = 
+Pfad_4 = 
+Pfad_5 = 
+Pfad_6 = 
